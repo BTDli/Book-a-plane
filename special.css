@@ -1,0 +1,22 @@
+h1 {
+    border-style:ridge;
+    border-width: 5px;
+    border-color: blue;
+    border-radius: 10px;
+    padding: 5px;
+}
+div {
+    border-style:ridge;
+    border-width: 5px;
+    border-color: blue;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 25px;
+}
+a {
+    border-style:ridge;
+    border-width: 5px;
+    border-color: blue;
+    border-radius: 10px;
+    padding: 5px;
+}

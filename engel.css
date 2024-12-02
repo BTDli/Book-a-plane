@@ -1,0 +1,7 @@
+.book {
+    border-style: groove;
+    border-width: 8px;
+    border-color: rgb(16, 119, 215);
+    border-radius: 20px;
+    padding: 5px;
+}

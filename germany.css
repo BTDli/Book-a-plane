@@ -1,0 +1,22 @@
+div {
+    border-style:ridge;
+    border-width: 5px;
+    border-color: blue;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 25px;
+}
+h1 {
+    border-style:ridge;
+    border-width: 5px;
+    border-color: blue;
+    border-radius: 10px;
+    padding: 5px;
+}
+input {
+    border-style:ridge;
+    border-width: 5px;
+    border-color: blue;
+    border-radius: 10px;
+    padding: 5px;
+}
